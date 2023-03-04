@@ -1,0 +1,51 @@
+/*Stylesheet for Eco-Wise website*/
+
+
+body {
+	 font-family: Arial, Verdana, Helvetica, san-serif;
+	 font-size: 100%;
+	}
+	#contentwrapper {width: 80%;
+	                  margin-left: 10%;
+					  margin-right: 10%;
+					  background-color:#FFFFFF;/*set the bg of the contentwrapper to white*/
+					  padding: 15px;
+					  }
+	#header {
+			text-align: left;
+			padding-top: 20px;
+			padding-bottom: 20px;
+			}
+h1 {font-size: 130%;
+	text-align: center;}
+h2 {font-size: 110%}
+
+	#navigation {
+			background-color: #B8DC7C;
+			text-align: center;
+			font-weight: bold;
+			padding-top: 20px;
+			padding-bottom: 20px;
+				}
+	
+	#footer {
+			background-color: #B8DC7C;
+			 text-align: center;
+			 font-size: 80%;
+			 font-weight: bold;
+			 padding-top: 15px;
+			 padding-bottom: 15px;
+			}
+	
+table,th,td {
+		  border: solid;
+		  border-color: #000000;
+		  border-width: 1px;
+		 }
+table {border-collapse: collapse;}
+th {padding: 15px;}
+td {padding: 10px;}
+caption {font-weight: bold;}
+	
+			
+	
